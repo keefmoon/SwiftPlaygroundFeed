@@ -1,0 +1,40 @@
+{
+    "documents": [
+        {
+            "previewImageURLs": [],
+            "subtitle": "A Swifty, and strongly typed way to deal with JSON in Swift",
+            "description": "A simple, Swifty way to interact with JSON.\nJSONNode is simple, useful, and under 175 lines of code.",
+            "publishedDate": "2018-01-28T17:30:00+00:00",
+            "url": "../../Content/JSONNode/JSONNode.playground.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "Keith Moon"
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2018-01-28T17:30:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English"
+                }
+            ],
+            "title": "JSON Node",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2018-01-28T17:30:00+00:00",
+            "contentIdentifier": "com.keefmoon.JSONNode",
+            "sha512": "b19b66ac12e01b347b74afad04325d83b375bb7647f4a38a9523010a034f75caf09a43ec8141c1e5476bbb48d9e6d21fc9f50f923f49ba81f3461472bd6508c7"
+        }
+    ],
+    "publisherName": "Keith Moon",
+    "title": "Keith Moon",
+    "formatVersion": "1.0",
+    "feedIdentifier": "com.keefmoon",
+    "contactURL": "mailto:keef@keefmoon.com"
+}
